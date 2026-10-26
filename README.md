@@ -86,3 +86,13 @@ Tasq/
 - **User Profile**: Displays user initials dynamically computed from their full name.
 - **Theme Support**: Seamless dark and light mode toggle.
 - **API Proxying**: Next.js rewrites route `/api/v1/*` requests directly to the backend server.
+
+---
+
+## Screenshots
+
+*(Add your screenshots to a `screenshots/` folder in the root directory and reference them here)*
+
+| Sign In | Sign Up | Dashboard & Todo List |
+| :---: | :---: | :---: |
+| ![Sign In](./screenshots/signin.png) | ![Sign Up](./screenshots/signup.png) | ![Dashboard](./screenshots/dashboard.png) |
