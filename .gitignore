@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Frontend
+/frontend/.next/
+/frontend/node_modules/
+
+# Backend
+/backend/node_modules/
+/backend/dist/
+/backend/.env
