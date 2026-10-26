@@ -91,8 +91,6 @@ Tasq/
 
 ## Screenshots
 
-*(Add your screenshots to a `screenshots/` folder in the root directory and reference them here)*
-
 | Sign In | Sign Up | Dashboard & Todo List |
 | :---: | :---: | :---: |
 | ![Sign In](./screenshots/signin.png) | ![Sign Up](./screenshots/signup.png) | ![Dashboard](./screenshots/dashboard.png) |
