@@ -14,7 +14,7 @@ export function validateJwtConfig() {
 }
 
 export function generateToken(user: { userId: number, username: string }) {
-    return jwt.sign(user, getJwtSecret(), { expiresIn: "1h" });
+    return jwt.sign(user, getJwtSecret());
 }
 
 export function verifyToken(token: string) {
